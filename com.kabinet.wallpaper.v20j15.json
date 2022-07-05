@@ -1,14 +1,14 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Walcome Tricaal Studio",
+"JSON_POPUP_WAIT" : "Walcome To Tricaal Studio",
 
 "TOAST_NOTIF" : false,
 
 "MODE_NO_ADS" : true,
 "MODE_BACKUP_ADS" : true,
 
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 //     * mode pengaturan iklan
 //     * Mode ADMOB       Admob backup Unity Backup Startapp
@@ -24,7 +24,7 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTERS_COUNT_WEB" : 3,
+"INTERS_COUNT_WEB" : 4,
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -43,7 +43,7 @@
 "UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
 "UNITY_GAME_ID" : "4803366",
-"UNITY_TEST_MODE" : true,
+"UNITY_TEST_MODE" : false,
 
 "STARAPPID" : "205292674",
 
